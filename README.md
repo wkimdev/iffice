@@ -1,15 +1,16 @@
 # iffice
-web service base on MRO business(javascript, Java, MS-SQL, Spring-Framework,,)
+Web service base on MRO business
+> (javascript, Java, MS-SQL, Spring-Framework,,)
 
 ## 지원
 Chrome
-internet explorer 6-11
+> internet explorer 6-11
 
 ## 기술스펙
 O/S : window 7
-D/B : MS-SQL
-Wisegrid,jsp/XML/javascript/Java/jQuery/HTML
-Spring Framework 3.0
+> D/B : MS-SQL
+> Wisegrid,jsp/XML/javascript/Java/jQuery/HTML
+> Spring Framework 3.0
 
 
 ## contributing
