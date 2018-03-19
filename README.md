@@ -1,2 +1,21 @@
 # iffice
 web service base on MRO business(javascript, Java, MS-SQL, Spring-Framework,,)
+
+## 지원
+Chrome
+internet explorer 6-11
+
+## 기술스펙
+O/S : window 7
+D/B : MS-SQL
+Wisegrid,jsp/XML/javascript/Java/jQuery/HTML
+Spring Framework 3.0
+
+
+## contributing
+㈜아이피스 MRO웹 시스템 개발/운영, 웹 프로젝트
+1. 유통 웹시스템 개발 및 유지보수
+2. 구매사 인터페이스 데이터 관리(발주,납품,입고 등)
+3. Crownix report tool을 이용한 거래명세서 개발 및 운영
+4. 경기도시공사청약사이트
+5. 밥상머리(교육플랫폼) 웹 서비스 프로젝트
